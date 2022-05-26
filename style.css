@@ -1,0 +1,25 @@
+/*
+
+selectores simples 
+    selectores elementales
+        selector universal
+        selctor de etiqueta
+    selectores de atributos
+        id
+        clases
+
+
+
+electores compuestos
+    selectores agrupados
+     selectorees combinadores
+     pseudo clases - pseudo elementos
+ */
+
+* {
+    background-color: blueviolet;
+}
+
+h1 {
+    background-color: blue;
+}
